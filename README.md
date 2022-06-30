@@ -14,7 +14,8 @@
 - 💬 ESLint + Prettier
 - ⚡ Agile Scrum Methodologies
 
-📫 How to reach me: bekembaeva8@gmail.com
-+996 707 063299
+## 📫 How to reach me:
+[<img align="left" width="22px" alt="javeoff | Telegram" src="https://simpleicons.org/icons/telegram.svg" />](https://t.me/Aig_erimm)
+[<img align="left" width="22px" alt="javeoff | Email" src="https://simpleicons.org/icons/gmail.svg" />](bekembaeva8@gmail.com)
 
 
