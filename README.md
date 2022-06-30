@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hello, I am Aigerim 👋
 
-<!--
-**BekembaevaSel/BekembaevaSel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stack
+- Javascript,
+- HTML, CSS.
+- React, Redux, Redux-thunk
 
 Here are some ideas to get you started:
 
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
